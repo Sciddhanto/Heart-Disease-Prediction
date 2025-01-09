@@ -1,4 +1,4 @@
-# Heart Disease Prediction Using Machine Logistic Regression
+# Heart Disease Prediction Using Logistic Regression
 
 This is a machine learning project to predict heart disease using Python. The project includes:
 - **Data Preprocessing**: Handling missing values, feature scaling, and encoding categorical data.
